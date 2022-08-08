@@ -14,4 +14,5 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xsw6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Motto
-踏踏实实！！
+踏踏实实！！不要为了而去为了！
+![](https://cdn.jsdelivr.net/gh/zx-creat/myblog@master/img/202208081105887.png)
