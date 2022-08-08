@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Xsw6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Xsw6
+- 👀 田径（800m选手）、篮球（菜但嘴硬）
+- 🌱 想学什么就学什么，我还年轻。
+- 💞️ 这一行留着、等强了再写。
+- 📫 xsw6_a@163.com
 
 <!---
 Xsw6/Xsw6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
