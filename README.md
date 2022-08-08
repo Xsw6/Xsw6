@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Xsw6
-- 👀 田径（800m选手）、篮球（菜但嘴硬）
+- 👀 田径（800m选手）、篮球（菜但嘴硬）、安全（再积累再进步）
 - 🌱 想学什么就学什么，我还年轻。
 - 💞️ 这一行留着、等强了再写。
 - 📫 xsw6_a@163.com
-
+- :sunny: 不回首望了 希望能够再这里留下有价值的东西
 <!---
 Xsw6/Xsw6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
